@@ -18,7 +18,7 @@
 
 - Added support for NSP API's
 - Added support for SystemTopic with MonitorDestination.
-- Added support for SystemTopic/CustomTopic with NamespaceTopic as destination.
+- Added support for SystemTopic and CustomTopic with NamespaceTopic as destination.
 - Added support for Namespace subscription to EventHub.
 - Added support for Namespace with deadletter.
 
